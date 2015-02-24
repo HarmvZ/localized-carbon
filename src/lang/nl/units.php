@@ -2,7 +2,8 @@
 
 return array(
     "second"    => "seconde|seconden|seconden",
-    "minute"    => "minuut|minuten|minuten",
+    "minute"    => "min|min|min",
+    //"minute"    => "minuut|minuten|minuten",
     "hour"      => "uur|uur|uur",
     "day"       => "dag|dagen|dagen",
     "week"      => "week|weken|weken",
